@@ -6,7 +6,8 @@ src/app_blog/__pycache__/
 src/project_blog/__pycache__/
 
 # файлы
-readme_git.txt
+git_push.txt
+git_clone.txt
 
 # приватные ключи .env
 src/.env
