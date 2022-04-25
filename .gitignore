@@ -1,0 +1,15 @@
+# вложеные каталоги .idea
+.idea/
+venv/
+src/app_accounts/__pycache__/
+src/app_blog/__pycache__/
+src/project_blog/__pycache__/
+
+# файлы
+readme_git.txt
+
+# приватные ключи .env
+src/.env
+.env
+
+

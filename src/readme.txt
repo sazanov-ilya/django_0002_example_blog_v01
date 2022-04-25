@@ -1,0 +1,1 @@
+https://python-scripts.com/create-blog-django
